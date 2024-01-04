@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.content{
+    width: 300px;
+    background-color: rgb(255, 60, 0);
+    height: 800px;
+    position: fixed;
+}
+.name a{
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 30px;
+    padding: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+.name a:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+    padding: 5px;
+    width: 250px;
+}
+.name h1{
+    padding: 100px 30px;
+    color: white;
+}
+h3{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 70px;
+    height: 12px;
+    border-radius: 5px;
+    background-color: rgb(255, 60, 0) ;
+}
+#show{
+    color:rgb(255, 60, 0) ;
+}
+.surati1 img{
+    width: 500px;
+    opacity: 0.6;
+}
+
+.surati2 img{
+    width: 500px;
+    opacity: 0.6;
+}
+.surati3 img{
+    width: 500px;
+    opacity: 0.6;
+}
+.surati4 img{
+    width: 500px;
+    opacity: 0.6;
+}
+.surati5 img{
+    width: 500px;
+    opacity: 0.6;
+}
+.surati6 img{
+    width: 500px;
+    opacity: 0.6;
+}
+.suratho1{
+    display: flex;
+    gap: 1em;
+}
+ .surati1 img:hover{
+    opacity: 1;
+}
+.surati2 img:hover{
+   
+    opacity: 1;
+}
+.surati3 img:hover{
+   
+    opacity: 1;
+}
+.surati4 img:hover{
+   
+    opacity: 1;
+}
+.surati5 img:hover{
+   
+    opacity: 1;
+}
+.surati6 img:hover{
+   
+    opacity: 1;
+}
+.suratho2{
+    display: flex;
+    gap: 1em;
+}
+.suratho3{
+    display: flex;
+    gap: 1em;
+}
+.john img{
+    width: 310px;
+    height: 250px;
+    gap: 1em;
+}
+.john2 img{
+    width: 310px;
+    height: 250px;
+    gap: 1em;
+}
+.john3 img{
+    width: 310px;
+    height: 250px;
+    gap: 1em;
+}
+.john {
+    width: 310px;
+    height: 250px;
+}
+.john2 {
+    width: 310px;
+    height: 250px;
+}
+.john3 {
+    width: 310px;
+    height: 250px;
+}
+.designers{
+    display: flex;
+    gap: 2em;
+    margin-bottom: 100px;
+}
+.resume{
+     display: flex;
+     gap: 2em;
+     width: 1000px;
+}
+.basic{
+    width: 500px;
+    height: 680px;
+    text-align: center;
+}
+.basic h2{
+    height: 60px;
+    color: white;
+    background-color: grey;
+    padding-top: 20px;
+    font-size: 35px;
+}
+.basic h5{
+    font-size: 20px;
+    height: 55px;
+    border-bottom: 2px solid lightgrey;
+    padding-top: 20px;
+}
+.basic h6{
+    font-size: 20px;
+    height: 90px;
+    border-bottom: 2px solid lightgrey;
+}
+.basic input{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.basic input:hover{
+    background-color:#0b1d26 ;
+    color: white;
+}
+.basic2{
+    width: 500px;
+    height: 680px;
+    text-align: center;
+}
+.basic2 h2{
+    height: 60px;
+    color: white;
+    background-color: grey;
+    padding-top: 20px;
+    font-size: 35px;
+}
+.basic2 h5{
+    font-size: 20px;
+    height: 55px;
+    border-bottom: 2px solid lightgrey;
+    padding-top: 20px;
+}
+.basic2 h6{
+    font-size: 20px;
+    height: 90px;
+    border-bottom: 2px solid lightgrey;
+}
+.basic2 input{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.basic2 input:hover{
+    background-color:#0b1d26 ;
+    color: white;
+}
+#dollar{
+    padding-top: 30px;
+}
+#pro{
+    background-color: rgb(255, 60, 0) ;
+    color: white;
+}
+#sign{
+    background-color: rgb(255, 60, 0) ;
+    color: white;
+}
+#sign:hover{
+    background-color: #0b1d26;
+}
+.contact1 input{
+    width: 1000px;
+    height: 40px;
+   
+}
+.contact1 label{
+font-size: 20px;  
+}
+#sign2{
+    width: 1010px;
+    font-size: 15px;
+    background-color: rgb(255, 60, 0);
+    color: white;
+}
+#sign2:hover{
+    background-color: lightgrey;
+    color: black;
+   
+}
+#red{
+    color: rgb(255, 60, 0);
+}
+ .maincontainer{
+    display: flex;
+ }
+ .design h1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .content2{
+   margin: auto;
+ }
+ .serv{
+    width: 900px;
+    padding-top: 20px;
+ }
+ .serv h1{
+    font-size: 60px;
+ }
+ .des{
+    width: 900px;
+    padding-top: 20px;
+ }
+ .des h1{
+    font-size: 60px;
+ }
+ .pack{
+    width: 900px;
+    padding-top: 20px;
+ }
+ .pack h1{
+    font-size: 60px;
+ }
+ .contact1 h1{
+    font-size: 60px;
+ }
+ .contact1{
+    padding-bottom: 90px;
+ }
+ .content2{
+    height: 750px;
+    overflow-y: auto;
+    width: 1100px;
+    margin-left: 360px;
+    padding-top: 100px;
+
+ }
+ footer{
+    width: 1013px;
+    background-color: lightgrey;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    }
+    footer span{
+    margin-left: 500px;
+    }
+    footer a{
+    color: black;
+    }
+ @media (max-width:768px) {
+    .content{
+        display: none;
+    }
+    .content2{
+        width: 100%;
+    }
+    
+ }
